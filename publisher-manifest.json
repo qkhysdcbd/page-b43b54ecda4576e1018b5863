@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "7c8a8037305ae45df5186356",
+  "owner": "qkhysdcbd",
+  "repo": "page-b43b54ecda4576e1018b5863",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b43b54ecda4576e1018b5863",
+      "a": "Shadowsocks",
+      "b": "clash verge服务商官网",
+      "entity": "Shadowsocks",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8dbdde7dbde6b284b714ed0f037b7c7672a4b0116c7eb30b95982a9b6fca6dfb",
+      "content": {
+        "primary_entity": "Shadowsocks",
+        "keyword1": "Shadowsocks",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLIENTS_INTRO": "按系统选择对应客户端，导入订阅后即可使用。",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线与流媒体解锁；团队版每月 1000GB 流量、支持 20 台设备，适合多人协作。按年付费可节省费用，流量与设备数按档位区分，便于按需选择。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度，快速判断适合的套餐。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览，旗舰版 300GB 适合日常追剧，团队版 1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "3 台设备以内选基础版，5 台左右选旗舰版，需要 20 台同时在线则选团队版。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省；基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与权益上依次递增，可按使用人数和流量需求对照选择。",
+          "AI_HERO_SUBTITLE": "稳定海外加速，按需选套餐",
+          "AI_HERO_INTRO": "Shadowsocks 海外加速器提供基础版、旗舰版和团队版三档方案，覆盖从个人轻量使用到多人协作的不同场景。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，年付方案更划算。",
+          "AI_VISUAL_TITLE": "Shadowsocks 加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "年付省费用，流量按需选",
+          "AI_HIGHLIGHT_3": "多端客户端订阅配置",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按三步完成从选套餐到开始使用的流程。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数与系统，准备对应的客户端环境。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成连接设置后即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻加速",
+          "AI_CLOSING_TEXT": "对照流量与设备数选择套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版月付 ¥15 含 100GB 流量、3 台设备，适合手机加电脑的轻度使用；年付 ¥150。旗舰版月付 ¥35 含 300GB、5 台设备与 IPLC 专线；团队版月付 ¥85 含 1000GB、20 台设备。",
+          "AI_FAQ_ANSWER_2": "在订阅管理页面复制订阅链接，打开客户端选择从 URL 导入，粘贴后更新节点即可。Clash 系客户端支持一键导入，Shadowrocket 与 Stash 同样识别订阅地址。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。多设备同时在线会共享套餐月流量，超出限制时可在套餐页面升级。",
+          "AI_FAQ_ANSWER_4": "月付适合短期或测试使用，年付相当于两个月价格，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。长期使用建议选年付，流量需求变化时可再调整。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线节点，针对游戏和视频场景做了延迟优化；基础版为普通线路节点池；团队版含 VIP 高带宽节点与定制路由支持。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量怎么选？",
+          "AI_FAQ_QUESTION_2": "Shadowsocks 订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备超出限制会怎样？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "旗舰版与基础版线路有什么区别？",
+          "AI_FAQ_TITLE": "套餐与订阅常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ecd1236a6aa7d4b307d85003a54329b5d6a1dd52571039c6ff68ece735ca45cf",
+    "sitemap.xml": "b765eb79bc065bd7498a371b5010ab4d3e8037cf8bdd36c1c1dc0db2010ecc7e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "8a7bda15db1b7f18d48b31950b2e2c346687206ef4215bce4e5d9e9aff18dda5"
+}
